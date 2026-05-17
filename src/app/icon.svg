@@ -1,0 +1,17 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="256" height="256" rx="64" fill="#FAFAF9"/>
+  <!-- Bowl Bottom -->
+  <path d="M48 128C48 172.183 83.8172 208 128 208C172.183 208 208 172.183 208 128H48Z" fill="#166534"/>
+  <path d="M48 128C48 172.183 83.8172 208 128 208C172.183 208 208 172.183 208 128H48Z" stroke="#14532D" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Noodles -->
+  <path d="M64 128C64 128 72 96 96 96C120 96 112 128 112 128" stroke="#EAB308" stroke-width="12" stroke-linecap="round"/>
+  <path d="M96 128C96 128 104 88 128 88C152 88 144 128 144 128" stroke="#EAB308" stroke-width="12" stroke-linecap="round"/>
+  <path d="M128 128C128 128 136 96 160 96C184 96 176 128 176 128" stroke="#EAB308" stroke-width="12" stroke-linecap="round"/>
+  <!-- Chopsticks -->
+  <path d="M224 48L152 144" stroke="#78350F" stroke-width="12" stroke-linecap="round"/>
+  <path d="M192 32L136 120" stroke="#78350F" stroke-width="12" stroke-linecap="round"/>
+  <!-- Steam -->
+  <path d="M112 72C112 72 104 60 112 48C120 36 112 24 112 24" stroke="#D4D4D8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M144 64C144 64 136 52 144 40C152 28 144 16 144 16" stroke="#D4D4D8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
