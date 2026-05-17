@@ -4,7 +4,7 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      quote: "Satu-satunya mie ayam yang kuahnya paling sedap di komplek. Mas Pur juga selalu senyum, jadi ikutan seneng belinya.",
+      quote: "Satu-satunya mie ayam yang kuahnya paling sedap di komplek. Permata juga selalu senyum, jadi ikutan seneng belinya.",
       name: "Ibu Ratna",
       role: "Warga Blok C"
     },
@@ -27,7 +27,7 @@ export default function Testimonials() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl font-extrabold font-poppins text-brand-green-dark sm:text-4xl">
-            Kata Warga Permata Indah 2
+            Kata Warga Permata Bintaro sektor 9,
           </h2>
           <div className="w-24 h-1 bg-brand-mustard mx-auto mt-6 rounded-full"></div>
         </div>

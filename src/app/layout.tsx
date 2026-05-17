@@ -14,8 +14,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Mie Ayam Mas Pur - Juara Langganan Komplek",
-  description: "Mie Ayam Biasa & Yamin khas gerobakan sejak 2013.",
+  title: "Mie Ayam Permata - Juara Langganan Komplek",
+  description: "Mie Ayam Biasa, Kering & Yamin khas gerobakan sejak 2013.",
 };
 
 export default function RootLayout({

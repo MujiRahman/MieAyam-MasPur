@@ -12,18 +12,18 @@ export default function About() {
 
           <div className="relative max-w-3xl mx-auto text-center">
             <h2 className="text-3xl font-extrabold font-poppins text-brand-green-dark sm:text-4xl mb-6">
-              Lebih dari Satu Dekade Menemani Sore Warga Permata Indah 2
+              Lebih dari Satu Dekade Menemani Sore Warga Permata Bintaro sektor 9,
             </h2>
-            
+
             <div className="space-y-6 text-lg text-gray-700 leading-relaxed">
               <p>
-                Sejak tahun 2013, suara khas ketukan mangkuk atau pantulan kentongan dari gerobak Mie Ayam Mas Pur sudah menjadi penanda waktu sore bagi warga Komplek Permata Indah 2. Berawal dari niat sederhana untuk menyajikan hidangan hangat yang mengenyangkan, Mas Pur telah mendorong gerobaknya menyusuri setiap blok perumahan tanpa lelah.
+                Sejak tahun 2013, suara khas ketukan mangkuk atau pantulan kentongan dari gerobak Mie Ayam Permata sudah menjadi penanda waktu sore bagi warga Komplek Permata Bintaro sektor 9,. Berawal dari niat sederhana untuk menyajikan hidangan hangat yang mengenyangkan, Permata telah mendorong gerobaknya menyusuri setiap blok perumahan tanpa lelah.
               </p>
               <p>
-                Yang membuat pelanggan selalu rindu bukan hanya pada kenyalnya mie atau gurihnya bumbu ayam kecap, tetapi pada sosok Mas Pur sendiri. Dengan senyum yang tak pernah lepas, sapaan yang sopan, dan ketekunan yang luar biasa dari jam 2 siang hingga 9 malam, setiap mangkuk mie ayam disajikan dengan sepenuh hati.
+                Yang membuat pelanggan selalu rindu bukan hanya pada kenyalnya mie atau gurihnya bumbu ayam kecap, tetapi pada sosok Permata sendiri. Dengan senyum yang tak pernah lepas, sapaan yang sopan, dan ketekunan yang luar biasa dari jam 2 siang hingga 9 malam, setiap mangkuk mie ayam disajikan dengan sepenuh hati.
               </p>
               <p className="font-medium text-brand-green-dark">
-                "Bagi Mas Pur, warga Komplek Permata Indah 2 bukan sekadar pembeli, melainkan keluarga yang sudah menemani perjalanan usahanya selama lebih dari 10 tahun."
+                "Bagi Permata, warga Komplek Permata Bintaro sektor 9, bukan sekadar pembeli, melainkan keluarga yang sudah menemani perjalanan usahanya selama lebih dari 10 tahun."
               </p>
             </div>
           </div>

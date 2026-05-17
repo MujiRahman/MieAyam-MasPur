@@ -8,11 +8,11 @@ export default function Hero() {
         <div className="lg:grid lg:grid-cols-12 lg:gap-16 items-center lg:-mt-20">
           <div className="lg:col-span-6 text-center lg:text-left">
             <h1 className="text-4xl tracking-tight font-extrabold text-brand-green-dark sm:text-5xl md:text-6xl font-poppins leading-tight">
-              Mie Ayam Mas Pur:
+              Mie Ayam Permata:
               <span className="block text-brand-mustard">Rasa Juara Langganan Komplek!</span>
             </h1>
             <p className="mt-4 text-base text-gray-600 sm:mt-5 sm:text-lg sm:max-w-xl mx-auto lg:mx-0 md:text-xl">
-              Menyajikan Mie Ayam Biasa & Yamin khas gerobakan dengan resep rahasia sejak 2013. Hangat, gurih, dan selalu siap memanjakan lidah warga Permata Indah 2.
+              Menyajikan Mie Ayam Biasa & Yamin khas gerobakan dengan resep rahasia sejak 2013. Hangat, gurih, dan selalu siap memanjakan lidah warga Permata Bintaro sektor 9,.
             </p>
             <div className="mt-8 sm:flex sm:justify-center lg:justify-start gap-4">
               <div className="rounded-full shadow">
@@ -43,7 +43,7 @@ export default function Hero() {
             <div className="relative mx-auto w-full rounded-2xl shadow-2xl lg:max-w-xl overflow-hidden aspect-square transform hover:scale-105 transition-transform duration-500">
               <Image
                 src="/images/hero_mie_ayam.png"
-                alt="Mie Ayam Mas Pur Gerobak"
+                alt="Mie Ayam Permata Gerobak"
                 fill
                 className="object-cover"
                 priority
@@ -53,7 +53,7 @@ export default function Hero() {
           </div>
         </div>
       </div>
-      
+
       {/* Decorative blobs */}
       <div className="absolute top-0 right-0 -mr-20 -mt-20 w-64 h-64 rounded-full bg-brand-mustard/20 blur-3xl"></div>
       <div className="absolute bottom-0 left-0 -ml-20 -mb-20 w-80 h-80 rounded-full bg-brand-green/10 blur-3xl"></div>

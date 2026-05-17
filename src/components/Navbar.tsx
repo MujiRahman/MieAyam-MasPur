@@ -18,10 +18,10 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0 flex items-center">
             <a href="#" className="font-poppins font-bold text-xl text-brand-green-dark">
-              Mie Ayam <span className="text-brand-mustard-dark">Mas Pur</span>
+              Mie Ayam <span className="text-brand-mustard-dark">Permata</span>
             </a>
           </div>
-          
+
           <div className="hidden md:flex items-center space-x-8">
             {links.map((link) => (
               <a
@@ -39,7 +39,7 @@ export default function Navbar() {
               className="inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-full shadow-sm text-sm font-medium text-white bg-brand-green hover:bg-brand-green-dark transition-colors"
             >
               <MessageCircle className="w-4 h-4 mr-2" />
-              Hubungi Mas Pur
+              Hubungi Permata
             </a>
           </div>
 
@@ -75,7 +75,7 @@ export default function Navbar() {
               className="mt-4 w-full flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-brand-green hover:bg-brand-green-dark"
             >
               <MessageCircle className="w-5 h-5 mr-2" />
-              Hubungi Mas Pur
+              Hubungi Permata
             </a>
           </div>
         </div>

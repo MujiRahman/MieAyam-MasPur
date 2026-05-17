@@ -15,7 +15,7 @@ export default function Schedule() {
             Jadwal & Rute Keliling
           </h2>
           <p className="mt-4 text-lg text-green-100 max-w-2xl mx-auto">
-            Tunggu ketukan mangkuk Mas Pur di depan rumah Anda!
+            Tunggu ketukan mangkuk Permata di depan rumah Anda!
           </p>
         </div>
 
@@ -27,7 +27,7 @@ export default function Schedule() {
             <div>
               <h3 className="text-xl font-bold font-poppins mb-2">Jam Operasional</h3>
               <p className="text-green-50 text-lg">Setiap Hari</p>
-              <p className="text-2xl font-bold text-brand-mustard mt-1">14.00 - 21.00 WIB</p>
+              <p className="text-2xl font-bold text-brand-mustard mt-1">14.00 - 22.00 WIB</p>
               <p className="text-sm text-green-200 mt-2">*Terkadang habis lebih cepat</p>
             </div>
           </div>
@@ -39,7 +39,7 @@ export default function Schedule() {
             <div>
               <h3 className="text-xl font-bold font-poppins mb-2">Rute Utama</h3>
               <p className="text-green-50 text-lg leading-relaxed">
-                Mengelilingi seluruh blok di <span className="font-bold text-white">Komplek Permata Indah 2</span>.
+                Mengelilingi seluruh blok di <span className="font-bold text-white">Komplek Permata Bintaro sektor 9,</span>.
               </p>
               <a
                 href="https://wa.me/6283182171871?text=Halo%20Mas%20Pur,%20boleh%20share%20live%20location%20gerobaknya?"

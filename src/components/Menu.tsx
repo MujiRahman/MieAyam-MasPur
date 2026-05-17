@@ -10,12 +10,19 @@ export default function Menu() {
       price: "Rp 15.000"
     },
     {
+      id: "kering",
+      name: "Mie Ayam Kering",
+      description: "Mie tanpa kuah yang dilumuri minyak bawang gurih istimewa, dipadukan dengan taburan ayam cincang melimpah dan pangsit goreng renyah yang bikin nagih!",
+      image: "/images/mie_ayam_kering.png",
+      price: "Rp 15.000"
+    },
+    {
       id: "yamin",
       name: "Mie Ayam Yamin",
       description: "Mie yang diaduk dengan kecap manis spesial, disajikan tanpa kuah (kering/nyemek), memberikan cita rasa manis gurih yang legit.",
       image: "/images/mie_ayam_yamin.png",
       price: "Rp 15.000"
-    }
+    },
   ];
 
   return (
@@ -26,11 +33,11 @@ export default function Menu() {
             Menu Sederhana nan Menggoda
           </h2>
           <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
-            Dua pilihan legendaris yang selalu ludes setiap hari. Pilih sesuai selera Anda!
+            Tiga pilihan legendaris yang selalu ludes setiap hari. Pilih sesuai selera Anda!
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-10 max-w-5xl mx-auto">
+        <div className="grid md:grid-cols-3 gap-8 max-w-7xl mx-auto">
           {menus.map((item) => (
             <div key={item.id} className="bg-white rounded-3xl overflow-hidden shadow-xl hover:shadow-2xl transition-shadow duration-300 border border-brand-cream flex flex-col">
               <div className="relative h-64 w-full">
